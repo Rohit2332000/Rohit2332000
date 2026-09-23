@@ -37,8 +37,8 @@ and evaluation** to solve real-world problems.
 
 - 🌍 [Portfolio](https://rohit2332000.github.io/rohityadav.github.io/)
 - 💻 [GitHub](https://github.com/rohit2332000)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 [Email](mailto:YOUR_EMAIL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-yadav-42223a303/)
+- 📧 [Email](rohitrana2332000@gmail.com)
 
 ---
 
