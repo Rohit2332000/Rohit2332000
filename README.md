@@ -1,100 +1,149 @@
 # Hi, I'm Rohit 👋
 
-I’m an **AI Engineer** focused on building practical and production-ready
-**Generative AI, RAG, and Agentic AI applications**.
+I'm an **AI Engineer** focused on building practical and production-ready
+**Generative AI, Agentic AI, Advanced RAG, and LLM-powered applications**.
 
-Most of my work is hands-on: building RAG pipelines, AI agents, multi-agent
-systems, MCP integrations, LLM evaluation workflows, and FastAPI-based AI
-applications.
+Most of my work is hands-on: building AI agents, multi-agent systems, RAG
+pipelines, MCP integrations, LLM evaluation workflows, and FastAPI-based
+AI applications.
 
-I enjoy working on systems that combine **LLMs + retrieval + tools + reasoning**
-to solve real-world problems.
+I enjoy turning AI concepts into reliable systems that can **retrieve
+knowledge, reason over information, use tools, and solve real-world problems.**
 
 ## What I work on
 
-- 🤖 **AI Agents:** single-agent, multi-agent, tool-calling and MCP-based systems
-- 🔎 **RAG Systems:** advanced RAG, hybrid search, reranking, Graph + Vector RAG
-- 🧠 **LLM Applications:** Generative AI, prompt engineering and structured outputs
-- 🔗 **MCP:** custom MCP servers and tool integrations
-- 📊 **LLM Evaluation:** RAG evaluation, faithfulness, relevancy and regression testing
-- ⚡ **AI Backend:** Python, FastAPI, REST APIs and PostgreSQL
-- ☁️ **Deployment:** AWS, Docker, Kubernetes and CI/CD
-- 🔍 **Observability:** LangSmith tracing, debugging and evaluation
+- 🤖 **AI Agents:** Single-agent, multi-agent, tool calling & autonomous workflows
+- 🔎 **Advanced RAG:** Hybrid search, reranking, semantic retrieval & Graph RAG
+- 🧠 **Generative AI:** LLM applications, prompt engineering & structured outputs
+- 🔗 **MCP:** Custom MCP servers and tool integrations
+- 📊 **LLM Evaluation:** RAG evaluation, faithfulness, relevancy & regression testing
+- ⚡ **AI Backend:** Python, FastAPI, REST APIs & PostgreSQL
+- ☁️ **Deployment:** AWS, Docker, Kubernetes & CI/CD
+- 🔍 **Observability:** LangSmith tracing, debugging & evaluation
 
 ## About Me
 
-- 🚀 Building **production-ready GenAI applications** with Python and modern LLM frameworks.
-- 🧩 Built an **Agentic AI Assistant** using LangGraph, MCP, tool calling and multiple integrations.
-- 🔎 Built **Advanced RAG systems** with FAISS, embeddings, reranking and evidence-grounded generation.
+- 🚀 Building **production-ready GenAI applications** using Python and modern LLM frameworks.
+- 🧩 Built multi-agent systems using **LangGraph, MCP and tool calling**.
+- 🔎 Experienced in building **Advanced RAG pipelines** with vector search, reranking and evidence-grounded generation.
+- 📊 Working with **LangSmith and DeepEval** for LLM/RAG evaluation.
 - ✈️ Built an **AI-powered Aircraft Maintenance Intelligence System** combining anomaly detection, RAG and LLM reasoning.
-- 📊 Working with **LangSmith and DeepEval** for LLM/RAG evaluation and quality monitoring.
-- 🛠️ Interested in building AI systems that are **reliable, observable and production-ready**.
-- 📚 Always exploring new developments in **Generative AI, Agentic AI and LLM systems**.
-
-## Featured Work
-
-### ✈️ Aircraft Maintenance Intelligence
-AI-powered maintenance platform combining telemetry anomaly detection with
-RAG-based maintenance-manual reasoning.
-
-`Python` `FastAPI` `LangGraph` `LangChain` `FAISS` `Groq` `LangSmith`
-
-### 🤖 Agentic AI Assistant
-Multi-agent assistant with tool calling, MCP servers and integrations for
-web search, expenses, stocks, weather and local events.
-
-`Python` `LangGraph` `MCP` `FastAPI` `PostgreSQL` `Docker`
-
-### 🔎 SHL Assessment Recommender
-Conversational AI system that understands user requirements and recommends
-relevant assessments using semantic retrieval.
-
-`Python` `FastAPI` `FAISS` `Embeddings` `Groq`
-
-## Tech I Use
-
-**Languages:** Python, SQL
-
-**AI / GenAI:** LLMs, RAG, LangChain, LangGraph, Agents, MCP, Prompt Engineering
-
-**ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, Hugging Face
-
-**Retrieval:** FAISS, ChromaDB, Embeddings, Semantic Search, Reranking
-
-**Backend:** FastAPI, Pydantic, REST APIs, PostgreSQL
-
-**Cloud / DevOps:** AWS, Docker, Kubernetes, GitHub Actions
-
-**Evaluation:** LangSmith, DeepEval, RAG Evaluation, LLM Evaluation
-
-## Currently Exploring
-
-- 🧠 Agentic RAG
-- 🔗 Graph + Vector RAG
-- 🤖 Multi-Agent Systems
-- 🔧 MCP & Tool-Using Agents
-- 📊 LLM Evaluation
-- ⚙️ Production GenAI Architecture
-
-## A little more about me
-
-🏏 I enjoy playing **cricket**.
-
-🤖 I spend a lot of my time exploring and experimenting with **AI**.
-
-🚀 **Open to AI/ML & Generative AI opportunities.**
-
-## Let's Connect
-
-🌐 **Portfolio:**  
-https://rohit2332000.github.io/rohityadav.github.io/
-
-💼 **LinkedIn:**  
-YOUR_LINKEDIN_URL
-
-📧 **Email:**  
-YOUR_EMAIL
+- 🛠️ Interested in reliable, observable and production-ready AI systems.
+- 📚 Constantly exploring new developments in **Generative AI, Agentic AI and LLM systems**.
 
 ---
 
-> **Building AI systems that move from prototype → production. 🚀**
+# 🚀 Featured Projects
+
+### 🤖 [MCP Powered Assistant](https://github.com/rohit2332000/mcp-powered-assistant)
+
+Production-ready AI assistant with **tool calling, MCP integration, memory
+persistence, and agentic workflows powered by LangGraph**.
+
+`Python` `LangGraph` `MCP` `LLM` `FastAPI`
+
+---
+
+### 📊 [RAG Evaluation using DeepEval](https://github.com/rohit2332000/RAG_EVALUATION_using_DeepEVAL)
+
+End-to-end **RAG evaluation framework** covering retrieval, generation,
+pipeline quality, correctness, safety, reliability and observability.
+
+`Python` `RAG` `DeepEval` `LLM Evaluation`
+
+---
+
+### ✈️ [Aircraft Maintenance Intelligence](https://github.com/rohit2332000/aircraft-maintenance-intelligence)
+
+AI-powered aircraft maintenance intelligence platform combining **flight
+parameter analytics, anomaly detection, maintenance-manual retrieval,
+LangGraph orchestration and LLM reasoning**.
+
+`Python` `FastAPI` `RAG` `LangGraph` `FAISS` `Groq` `LangSmith`
+
+---
+
+### 🌍 [Agentic Trip Planning System](https://github.com/rohit2332000/agentic-trip-planning-system)
+
+Multi-agent AI travel planner that generates intelligent itineraries using
+**LangGraph, LLMs and real-world APIs**.
+
+`Python` `LangGraph` `Agents` `LLMs` `APIs`
+
+---
+
+### 🖼️ [Multimodal AI System](https://github.com/rohit2332000/Multimodal-AI-system)
+
+Multimodal AI application enabling users to interact with **YouTube videos,
+PDFs and documents** using a unified RAG-based architecture with intelligent
+context routing.
+
+`Python` `LangChain` `LangGraph` `RAG` `ChromaDB` `Multimodal AI`
+
+---
+
+### ✍️ [Agentic Blogger](https://github.com/rohit2332000/Agentic-Blogger)
+
+Multi-agent AI blog writer using **LangGraph, web research, parallel workers
+and persistent memory**.
+
+`Python` `LangGraph` `Agents` `Web Research` `Memory`
+
+---
+
+# 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `SQL`
+
+**Generative AI**
+
+`LLMs` `RAG` `LangChain` `LangGraph` `Agents` `MCP` `Prompt Engineering`
+
+**Machine Learning**
+
+`PyTorch` `TensorFlow` `Scikit-learn` `Transformers` `Hugging Face`
+
+**Retrieval**
+
+`FAISS` `ChromaDB` `Embeddings` `Semantic Search` `Reranking`
+
+**Backend**
+
+`FastAPI` `Pydantic` `REST APIs` `PostgreSQL`
+
+**Cloud & DevOps**
+
+`AWS` `Docker` `Kubernetes` `GitHub Actions`
+
+**Evaluation & Observability**
+
+`LangSmith` `DeepEval` `RAG Evaluation` `LLM Evaluation`
+
+---
+
+# 🧠 How I Build AI Systems
+
+```text
+                User Query
+                    │
+                    ▼
+             Query Understanding
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      Retrieval             Agents
+          │                   │
+          ▼                   ▼
+   Vector / Graph         Tool Calling
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+              LLM Reasoning
+                    │
+                    ▼
+                Evaluation
+                    │
+                    ▼
+            Reliable Response
