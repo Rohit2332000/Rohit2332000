@@ -204,6 +204,48 @@ Created an AI-powered content-generation workflow that coordinates planning, res
 
 ---
 
+
+
+---
+
+<h2 align="center">🏆 Hackathons & AI Challenges</h2>
+
+<p align="center">
+  <i>Building practical AI solutions under real-world constraints.</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ HackerRank Orchestrate</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Hackathon-June_2026-00C7B7?style=flat-square" alt="June 2026 hackathon"/>
+        <img src="https://img.shields.io/badge/Focus-AI_Agents-6E56CF?style=flat-square" alt="AI Agents"/>
+      </p>
+      Participated in a 24-hour hackathon, building and presenting an AI agent.
+      <br/><br/>
+      <b>Focus:</b> Agentic AI · Rapid Prototyping · AI Engineering
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 INDIA.RUNS AI Challenge — Redrob</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Challenge-Redrob-FF6B35?style=flat-square" alt="Redrob AI Challenge"/>
+        <img src="https://img.shields.io/badge/Ranking-Top--100_Recommendations-2563EB?style=flat-square" alt="Top-100 recommendations"/>
+      </p>
+      Built <b>RecruitRankAI</b>, an explainable candidate-recommendation system using Sentence Transformers, FAISS, and hybrid ranking.
+      <br/><br/>
+      <b>Key constraints:</b> CPU-only execution · Offline processing · No LLMs
+      <br/><br/>
+      <b>Tech Stack:</b> Python · Sentence Transformers · FAISS · Hybrid Ranking
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>⚙️ Engineering intelligent solutions within real-world constraints.</b>
+</p>
+
+
 ## 📊 GitHub Analytics
 
 
