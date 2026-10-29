@@ -155,24 +155,30 @@ Created an AI-powered content-generation workflow that coordinates planning, res
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
 
 <a href="https://github.com/Rohit2332000">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohit2332000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Rohit2332000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/Rohit2332000">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2332000&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rohit2332000&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Rohit2332000&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit2332000&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://ghchart.rshah.org/00D9FF/Rohit2332000" width="100%" alt="GitHub contribution calendar"/>
+
+<br/>
+
+<strong>⚡ Code • Build • Innovate • Repeat</strong>
 
 </div>
+
 
 ---
 
